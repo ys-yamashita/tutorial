@@ -2,3 +2,4 @@ sample
 add 変更をインデックスに登録する modidy remote
 add 変更をインデックスに登録する modidy remote2
 add 変更をインデックスに登録する
+pull リモートレポジトリの内容を取得する
