@@ -1,6 +1,2 @@
 sample
-<<<<<<< HEAD
-add 変更をインデックスに登録する modify local
-=======
 add 変更をインデックスに登録する modidy remote
->>>>>>> 0d5ee3fb9f1104370608b64b8b005e1c095d9803
